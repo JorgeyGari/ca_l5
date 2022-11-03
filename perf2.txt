@@ -1,0 +1,14 @@
+Average = 49.9457
+Averaging time: 780 us
+
+ Performance counter stats for 'release/bpred2':
+
+        43.727.218      branch-instructions                                         
+         9.521.553      branch-misses             #   21,77% of all branches        
+
+       0,096443485 seconds time elapsed
+
+       0,082025000 seconds user
+       0,007811000 seconds sys
+
+
